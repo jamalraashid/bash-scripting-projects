@@ -50,5 +50,8 @@ This repository contains Bash scripting exercises, practice programs, and mini p
 My objective is to become a Linux System Administrator / DevOps Engineer by building practical Linux automation projects.
 
 ---
+## Connect with Me
 
+- LinkedIn: https://www.linkedin.com/in/jamalraashid
+- 
 Thank you for visiting my repository.
